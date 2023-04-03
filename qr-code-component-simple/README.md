@@ -4,10 +4,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
-### Screenshot
-
-![Screenshot](./screenshot.png)
-
 ### Links
 
 - Live Site URL: [Add live site URL here](https://luisamlopez.github.io/qr-code-component-simple/index.html)
